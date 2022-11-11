@@ -1,4 +1,4 @@
-# EE102
+# EE102 Spring 2021
 Digital FPGA Piano for Beginners
 Bilkent University
 This term project is a digital piano design with VGA screen as the piano template, buzzer 
